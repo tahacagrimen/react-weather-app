@@ -1,0 +1,4 @@
+.weather-card {
+  display: flex;
+  flex-direction: row;
+}
